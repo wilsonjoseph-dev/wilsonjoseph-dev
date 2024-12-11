@@ -34,7 +34,7 @@ I'm a recent MBA graduate with a background in Finance, HR, and Electrical Engin
 ---
 
 ## 📫 How to Reach Me
-- Email: [Your Email Address]
+- Email: [wilsonmba2023@gmail.com]
 - LinkedIn: [www.linkedin.com/in/wilson-joseph-p]
 - GitHub: [https://github.com/wilsonjoseph-dev/wilsonjoseph-dev]
 
